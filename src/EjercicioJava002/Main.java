@@ -2,19 +2,24 @@ package EjercicioJava002;
 
 /*ENUNCIADO DEL EJERCICIO
  *
- * Genera un número aleatorio entre 0 y 100 (no incluido) y usando exclusivamente el operador condicional,
- * junto con operadores de relación, lógicos y de asignación, escribe un código en Java que muestre por
- * pantalla si el número aleatorio generado está entre los rangos siguientes:
- *
- *    • Si el número está entre 0 y 20, 20 no incluido.
- *    • Si el número está entre 20 y 50, ambos incluidos.
- *    • Si el número está entre 50 y 75, ninguno incluido.
- *    • Si el número está entre 75 y 100, ambos incluidos.
- *
- *   Para crear un numero aleatorio podemos usar: "double d=Math.random()*100";
+ * Declara dos variables numéricas (con el valor que desees), muestra por consola
+ * la suma, resta, multiplicación, división y módulo (resto de la división).
  */
 public class Main {
     public static void main(String[] args) {
+
+        //Declaramos las variables numericas
+        int num1 = 12;
+        int num2 = 5;
+
+        //Podemos declarar cada resultado como una variable, pero al ser tan
+        //sencilla, se puede realizar directamente
+        System.out.println("La suma de las variables es: "+(num1+num2));
+        System.out.println("La resta de las variables es: "+(num1-num2));
+        System.out.println("La multiplicion de las variables es: "+(num1*num2));
+        System.out.println("La division de las variables es: "+(num1/num2));
+        System.out.println("El modulo de las variables es: "+(num1%num2));
+
 
     }
 }
