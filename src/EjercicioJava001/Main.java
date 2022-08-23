@@ -1,4 +1,4 @@
-package EjerciciosJava001;/*ENUNCIADO DEL EJERCICIO
+package EjercicioJava001;/*ENUNCIADO DEL EJERCICIO
  *
  * Genera un número aleatorio entre 0 y 100 (no incluido) y usando exclusivamente el operador condicional,
  * junto con operadores de relación, lógicos y de asignación, escribe un código en Java que muestre por
