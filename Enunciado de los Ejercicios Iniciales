@@ -11,4 +11,9 @@ Ejercicio 002
 Declara dos variables numéricas (con el valor que desees), muestra por consola la suma, resta, 
 multiplicación, división y módulo (resto de la división).
 
+Ejercicio 003
+Declara un String que contenga tu nombre, después muestra un mensaje de bienvenida
+por consola.
+Por ejemplo: si introduzco «Fernando», me aparezca «Bienvenido Fernando».
+
 
