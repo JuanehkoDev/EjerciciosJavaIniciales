@@ -32,6 +32,7 @@ public class Main {
         System.out.println(resultado);
 
         //Planteamos la resolucion del problema con un bucle if:
+        //Volverá a pedir otra vez el numero por pantalla
 
         System.out.println("Introduce el numero que quieres saber si es par:");
         numero = entrada.nextInt();
