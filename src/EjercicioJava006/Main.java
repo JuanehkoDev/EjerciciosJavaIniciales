@@ -28,7 +28,7 @@ public class Main {
                 } else {
                 contador++;
                 }
-            System.out.println("Contraseña errónea");
+            System.out.println("Contraseña errónea\n");
         } while (contador < 4);
     }
 }
