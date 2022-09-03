@@ -29,3 +29,8 @@ Escribe una aplicación con un String que contenga una contraseña cualquiera. D
 introduzcas la contraseña, con 3 intentos. Cuando aciertes ya no pedirá mas la contraseña y mostrara
 un mensaje diciendo «Enhorabuena». Piensa bien en la condición de salida (3 intentos y si acierta sale,
 aunque le queden intentos).
+
+Ejercicio 007
+Pedir los coeficientes de una ecuación de 2º grado, y muestre sus soluciones reales. Si no existen,
+debe indicarlo.
+
